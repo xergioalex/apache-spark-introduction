@@ -4,7 +4,7 @@ MAINTAINER Cecile Tonglet <cecile.tonglet@tenforce.com>
 
 RUN apt-get update -y
 RUN apt-get install pandoc -y
-#RUN pip3 install pyspark
+RUN pip3 install pyspark
 
 COPY template.sh /
 
