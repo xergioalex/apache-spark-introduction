@@ -7,6 +7,8 @@ Apache Spark es una plataforma de computación cluster rápida pensada para ejec
 
 A continuación encontrarás información introductoria con ejercicios prácticas de cada uno de los componentes de Spark.
 
+Enlace a los slides de la presentación [**aquí**](https://docs.google.com/presentation/d/189cQ15l-3ZmmDfHcgc69W_qZONEIb44zJXTlwwe_R-c/edit)
+
 - [01 - INTRODUCCION A APACHE SPARK](https://github.com/xergioalex/apache-spark-introduction/blob/master/01%20-%20INTRODUCCION%20A%20APACHE%20SPARK.ipynb)
 - [02 - RDD RESILENT DISTRIBUTED DATASETS](https://github.com/xergioalex/apache-spark-introduction/blob/master/02%20-%20RDD%20RESILENT%20DISTRIBUTED%20DATASETS.ipynb)
 - [03 - RDDs con pares clave valor](https://github.com/xergioalex/apache-spark-introduction/blob/master/03%20-%20RDDs%20con%20pares%20clave%20valor.ipynb)
@@ -18,3 +20,7 @@ A continuación encontrarás información introductoria con ejercicios práctica
 - [09 - GraphX Procesamiento de grafos](https://github.com/xergioalex/apache-spark-introduction/blob/master/09%20-%20GraphX%20Procesamiento%20de%20grafos.ipynb)
 - [10 - Spark ML](https://github.com/xergioalex/apache-spark-introduction/blob/master/10%20-%20Spark%20ML.ipynb)
 - [11 - Spark Streaming](https://github.com/xergioalex/apache-spark-introduction/blob/master/11%20-%20Spark%20Streaming.ipynb)
+
+![Taylor meme](media/21.taylor.png)
+
+😂
